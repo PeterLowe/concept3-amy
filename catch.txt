@@ -1,3 +1,4 @@
+
 Title
 [JM] Catch22
 
@@ -7,8 +8,25 @@ The player/character runs into the option they choose and a story is created in 
 If they fail to pick an option in time, then the game ends and a printout of the story that they created is displayed.
 
 30 second  gameplay description
-...
+[JM] you drag your finger across the screen and in so doing move your character which then collides wioth your different choices to create a story.
+The game starts off slow and quickens over time, allowing new/casual players to easily create a short story that is 5 events in length.
+Once missing an event choice, the game ends and the story prints out. There will be a paragraph for each event, but also a summary
+of events chosen to allow players to enjoy the story they made without forcing them to read a lot of text if they do not wish to.
+
 Pillars
-...
+[JM] Humour, Touchscreen Drag, Colourful & Clear Graphics to Represent Events
+
 Features
+[JM]
+
+Title:  ar Refrigerator Catch
+...
+Elavator Pitch: ar Different food items/bad items fall from the top of the screen and the character has to catch the food and avoid the bad objects. 
+...
+30 second  gameplay description: ar You control a cat that is trying to eat the food falling from the fridge in the background and have to avoid any non food objects that fall. use a touchscreen, player has to slide the character across the screen to play.
+
+...
+Pillars: ar simple 2d puzzle game, bright cartoon animation, game is on a timer, eating the bad items decreases the time
+...
+Features: ar fast gameplay, ability to customise character and background, simple to play 
 ...
