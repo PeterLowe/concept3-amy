@@ -1,3 +1,4 @@
+
 Title
 [JM] Catch22
 
@@ -7,6 +8,13 @@ The player/character runs into the option they choose and a story is created in 
 If they fail to pick an option in time, then the game ends and a printout of the story that they created is displayed.
 
 30 second  gameplay description
+
+Title:  ar Refrigerator Catch
+...
+Elavator Pitch: ar Different food items/bad items fall from the top of the screen and the character has to catch the food and avoid the bad objects. 
+...
+30 second  gameplay description: ar You control a cat that is trying to eat the food falling from the fridge in the background and have to avoid any non food objects that fall. use a touchscreen, player has to slide the character across the screen to play.
+
 ...
 Pillars
 ...
