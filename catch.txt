@@ -8,15 +8,25 @@ The player/character runs into the option they choose and a story is created in 
 If they fail to pick an option in time, then the game ends and a printout of the story that they created is displayed.
 
 30 second  gameplay description
-[JM]By placing your finger on the touchscreen and dragging, your character follows the movement of your finger.
-The game starts out slow and gradually gets faster giving time for players to play casually and generate a story that is
-a couple of paragraphsin length. A summary of the choices will first be displayed, so that you don't have to read as much
-text to get the gist of the story you have created. Beginning the game again a new random set of catastrophic occurances presents
-itself, allowing you to start an entirely new story on your next run through.
+[JM] You drag your finger across the screen and in so doing move your character which then collides with your different choices to create a story.
+The game starts off slow and quickens over time, allowing new/casual players to easily create a short story that is 5 events in length.
+Once missing an event choice, the game ends and the story prints out. There will be a paragraph for each event, but also a summary
+of events chosen to allow players to enjoy the story they made without forcing them to read a lot of text if they do not wish to.
+Then, beginning the game again a new random set of catastrophic occurances presents itself, allowing you to start an entirely new story on your next run through.
 
 Pillars
+[JM] Humour, Touchscreen Drag, Colourful & Clear Graphics to Represent Events
 
 Features
+[JM]
+
+Title:  ar Refrigerator Catch
+...
+Elavator Pitch: ar Different food items/bad items fall from the top of the screen and the character has to catch the food and avoid the bad objects. 
+...
+30 second  gameplay description: ar You control a cat that is trying to eat the food falling from the fridge in the background and have to avoid any non food objects that fall. use a touchscreen, player has to slide the character across the screen to play.
+
+...
 
 Title:  ar Refrigerator Catch
 ...
