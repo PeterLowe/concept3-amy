@@ -1,7 +1,11 @@
 Title
 [JM] Catch22
+
 Elavator Pitch
-...
+[JM] A game where you make split second decisions between two poor choices, which are represented by a simple graphic.
+The player/character runs into the option they choose and a story is created in the backgrounmd as they do.
+If they fail to pick an option in time, then the game ends and a printout of the story that they created is displayed.
+
 30 second  gameplay description
 ...
 Pillars
