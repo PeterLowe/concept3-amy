@@ -8,6 +8,15 @@ The player/character runs into the option they choose and a story is created in 
 If they fail to pick an option in time, then the game ends and a printout of the story that they created is displayed.
 
 30 second  gameplay description
+[JM]By placing your finger on the touchscreen and dragging, your character follows the movement of your finger.
+The game starts out slow and gradually gets faster giving time for players to play casually and generate a story that is
+a couple of paragraphsin length. A summary of the choices will first be displayed, so that you don't have to read as much
+text to get the gist of the story you have created. Beginning the game again a new random set of catastrophic occurances presents
+itself, allowing you to start an entirely new story on your next run through.
+
+Pillars
+
+Features
 
 Title:  ar Refrigerator Catch
 ...
